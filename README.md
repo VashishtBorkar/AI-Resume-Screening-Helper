@@ -19,14 +19,17 @@ A streamlined tool to extract technical skills from resumes, evaluate their rele
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/upload-resume.png" alt="Upload Resume Page" width="600"/>
+      <img src="./assets/skills-list.png" alt="Skill List" width=""/>
       <br><sub><b>Extracted Skills from Resume</b></sub>
     </td>
     <td align="center">
-      <img src="./assets/skill-results.png" alt="Skill Results" width="600"/>
+      <img src="./assets/suggested-questions.png" alt="Suggested Questions" width=""/>
       <br><sub><b>Generated Screening Questions</b></sub>
     </td>
   </tr>
+
+
+  
 </table>
 
 ---
