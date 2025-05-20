@@ -5,7 +5,6 @@ A streamlined tool to extract technical skills from resumes, evaluate their rele
 
 ## Table of Contents
 - [Screenshots](#screenshots)
-- [Demo](#demo)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Installation](#installation)
