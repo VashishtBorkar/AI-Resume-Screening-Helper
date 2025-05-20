@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# OS-specific
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+
+# Editor settings (optional, if using VSCode or PyCharm)
+.vscode/
+.idea/
+
+# Optional personal dev files
+visualizations.py
+testing.py
